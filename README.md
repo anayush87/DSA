@@ -5,4 +5,4 @@ This repository contains solutions to various LeetCode problems organized by top
 ## Important Notes
 
 - [Array](Array.md)
-- [Binary Search]("Binary Search.md")
+- [Binary Search](Binary Search.md)
