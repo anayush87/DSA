@@ -2,10 +2,7 @@
 
 This repository contains solutions to various LeetCode problems organized by topic.
 
-## 📁 Folder Structure
+## Important Notes
 
-```plaintext
-DSA/
-├── Binary Search/
-├── Slidding window/
-└── array/
+- [Array](array.md)
+- [Binary Search](binary_search.md)
