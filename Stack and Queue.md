@@ -4,4 +4,4 @@
 |--------------|-----------|----------------|
 | 496 | Next Greater Element I | [Solution](https://leetcode.com/submissions/detail/1795151523/) |
 | 84 | Largest Rectangle in Histogram | [Solution](https://leetcode.com/submissions/detail/1796000795/) |
-| 16 | 3Sum Closest  | [Solution](https://leetcode.com/submissions/detail/1788105513/) |
+| 735 | Asteroid Collision | [Solution](https://leetcode.com/submissions/detail/1796288155/) |
