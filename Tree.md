@@ -10,7 +10,7 @@
 | 104 | Maximun Depth of Binary Tree | [Solution](https://leetcode.com/submissions/detail/1799001714/) |
 | 100 | Same Tree | [Solution](https://leetcode.com/submissions/detail/1799009338/) |
 | 110 | Balanced Binary Tree | [Solution](https://leetcode.com/submissions/detail/1799376766/) |
-| 543 | Diameter of Binary Tree |  |
+| 543 | Diameter of Binary Tree | [Solution](https://leetcode.com/submissions/detail/1799387041/)  |
 | 199 | Binary Tree Right Side View |[Solution](https://leetcode.com/submissions/detail/1799368272/) |
 | 101 | Symmetric Tree |[Solution](https://leetcode.com/submissions/detail/1799049159/) |
 | 987 | Vertical Order Traversal of a Binary Tree | |
