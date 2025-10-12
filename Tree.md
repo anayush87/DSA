@@ -1,4 +1,4 @@
-## Binary Search
+## Tree
 
 | Question No. | Question | Solution Link |
 |--------------|-----------|----------------|
