@@ -9,3 +9,10 @@
 | 103 | Binary Tree Zigzag level Traversal | [Solution](https://leetcode.com/submissions/detail/1798993831/) |
 | 104 | Maximun Depth of Binary Tree | [Solution](https://leetcode.com/submissions/detail/1799001714/) |
 | 100 | Same Tree | [Solution](https://leetcode.com/submissions/detail/1799009338/) |
+| 110 | Balanced Binary Tree | [Solution](https://leetcode.com/submissions/detail//) |
+| 543 | Diameter of Binary Tree | [Solution](https://leetcode.com/submissions/detail//) |
+| 199 | Binary Tree Right Side View | |
+| 101 | Symmetric Tree | |
+| 987 | Vertical Order Traversal of a Binary Tree | |
+| 124 | Binary Tree Maximum Path Sum | |
+
