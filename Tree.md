@@ -1,4 +1,4 @@
-## Tree
+# Tree
 
 | Question No. | Question | Solution Link |
 |--------------|-----------|----------------|
@@ -15,4 +15,12 @@
 | 101 | Symmetric Tree |[Solution](https://leetcode.com/submissions/detail/1799049159/) |
 | 987 | Vertical Order Traversal of a Binary Tree | |
 | 124 | Binary Tree Maximum Path Sum | |
+
+## Binart Search Tree
+
+| Question No. | Question | Solution Link |
+|--------------|-----------|----------------|
+| 700 | Search in a Binary Search Tree | [Solution](https://leetcode.com/submissions/detail/1802240942/) |
+| 701 | Insert into a Binary Search Tree | [Solution](https://leetcode.com/submissions/detail/1802269717/) |
+| 450 | Delete node in a BST | |
 
