@@ -22,5 +22,5 @@
 |--------------|-----------|----------------|
 | 700 | Search in a Binary Search Tree | [Solution](https://leetcode.com/submissions/detail/1802240942/) |
 | 701 | Insert into a Binary Search Tree | [Solution](https://leetcode.com/submissions/detail/1802269717/) |
-| 450 | Delete node in a BST | |
+| 450 | Delete node in a BST | [Solution](https://leetcode.com/submissions/detail/1803033894/) |
 
