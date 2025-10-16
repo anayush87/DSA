@@ -23,6 +23,7 @@
 | 700 | Search in a Binary Search Tree | [Solution](https://leetcode.com/submissions/detail/1802240942/) |
 | 701 | Insert into a Binary Search Tree | [Solution](https://leetcode.com/submissions/detail/1802269717/) |
 | 450 | Delete node in a BST | [Solution](https://leetcode.com/submissions/detail/1803033894/) |
-| 230 | Kth Smallest Element in a BST |
-
+| 230 | Kth Smallest Element in a BST |  [Solution](https://leetcode.com/submissions/detail/1803293879/) |
+| 98 | Validate Binary Search Tree |  |
+| 653 | Two Sum IV - Input is a BST | [Solution](https://leetcode.com/submissions/detail/1803310011/) |
 
