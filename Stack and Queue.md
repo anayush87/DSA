@@ -8,6 +8,4 @@
 | 15 | Valid Parentheses | [Solution](https://leetcode.com/submissions/detail/1791780548/) |
 | 155 | Min Stack | [Solution](https://leetcode.com/submissions/detail/1793411303/) |
 | 496 | Next Greater Element I| [Solution](https://leetcode.com/submissions/detail/1795151523/) |
-| 658 | | |
-| 973 | | |
-| 295 | | |
+
