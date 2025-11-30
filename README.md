@@ -22,4 +22,12 @@ This repository contains solutions to various LeetCode problems organized by top
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anayush87/DSA/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/anayush87/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/anayush87/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
