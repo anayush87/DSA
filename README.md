@@ -30,4 +30,24 @@ This repository contains solutions to various LeetCode problems organized by top
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/anayush87/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Array
+|  |
+| ------- |
+| [0079-word-search](https://github.com/anayush87/DSA/tree/master/0079-word-search) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/anayush87/DSA/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/anayush87/DSA/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/anayush87/DSA/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/anayush87/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
