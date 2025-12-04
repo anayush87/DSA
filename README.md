@@ -14,10 +14,12 @@ This repository contains solutions to various LeetCode problems organized by top
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anayush87/DSA/tree/master/0062-unique-paths) |
+| [0509-fibonacci-number](https://github.com/anayush87/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anayush87/DSA/tree/master/0062-unique-paths) |
+| [0509-fibonacci-number](https://github.com/anayush87/DSA/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -30,6 +32,7 @@ This repository contains solutions to various LeetCode problems organized by top
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/anayush87/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0509-fibonacci-number](https://github.com/anayush87/DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -50,4 +53,8 @@ This repository contains solutions to various LeetCode problems organized by top
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anayush87/DSA/tree/master/0079-word-search) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anayush87/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
