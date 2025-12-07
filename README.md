@@ -16,11 +16,13 @@ This repository contains solutions to various LeetCode problems organized by top
 | [0062-unique-paths](https://github.com/anayush87/DSA/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/anayush87/DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/anayush87/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/anayush87/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anayush87/DSA/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/anayush87/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/anayush87/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -58,6 +60,7 @@ This repository contains solutions to various LeetCode problems organized by top
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anayush87/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/anayush87/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
