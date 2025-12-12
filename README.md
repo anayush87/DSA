@@ -14,6 +14,7 @@ This repository contains solutions to various LeetCode problems organized by top
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anayush87/DSA/tree/master/0062-unique-paths) |
+| [0326-power-of-three](https://github.com/anayush87/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/anayush87/DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/anayush87/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/anayush87/DSA/tree/master/1025-divisor-game) |
@@ -38,6 +39,7 @@ This repository contains solutions to various LeetCode problems organized by top
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/anayush87/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0326-power-of-three](https://github.com/anayush87/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/anayush87/DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
