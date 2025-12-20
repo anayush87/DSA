@@ -22,6 +22,7 @@ This repository contains solutions to various LeetCode problems organized by top
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anayush87/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anayush87/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/anayush87/DSA/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/anayush87/DSA/tree/master/0174-dungeon-game) |
@@ -45,6 +46,7 @@ This repository contains solutions to various LeetCode problems organized by top
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anayush87/DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/anayush87/DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/anayush87/DSA/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/anayush87/DSA/tree/master/0174-dungeon-game) |
@@ -87,4 +89,8 @@ This repository contains solutions to various LeetCode problems organized by top
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/anayush87/DSA/tree/master/1025-divisor-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/anayush87/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
