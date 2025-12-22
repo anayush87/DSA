@@ -53,6 +53,7 @@ This repository contains solutions to various LeetCode problems organized by top
 | [0079-word-search](https://github.com/anayush87/DSA/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/anayush87/DSA/tree/master/0174-dungeon-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anayush87/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anayush87/DSA/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## String
 |  |
 | ------- |
@@ -104,4 +105,12 @@ This repository contains solutions to various LeetCode problems organized by top
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anayush87/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Hash Table
+|  |
+| ------- |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anayush87/DSA/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+## Prefix Sum
+|  |
+| ------- |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anayush87/DSA/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 <!---LeetCode Topics End-->
