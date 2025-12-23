@@ -28,6 +28,7 @@ This repository contains solutions to various LeetCode problems organized by top
 | [0064-minimum-path-sum](https://github.com/anayush87/DSA/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/anayush87/DSA/tree/master/0174-dungeon-game) |
 | [0509-fibonacci-number](https://github.com/anayush87/DSA/tree/master/0509-fibonacci-number) |
+| [0583-delete-operation-for-two-strings](https://github.com/anayush87/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1025-divisor-game](https://github.com/anayush87/DSA/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/anayush87/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
@@ -58,6 +59,7 @@ This repository contains solutions to various LeetCode problems organized by top
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anayush87/DSA/tree/master/0079-word-search) |
+| [0583-delete-operation-for-two-strings](https://github.com/anayush87/DSA/tree/master/0583-delete-operation-for-two-strings) |
 ## Backtracking
 |  |
 | ------- |
