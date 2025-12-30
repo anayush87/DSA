@@ -115,4 +115,8 @@ This repository contains solutions to various LeetCode problems organized by top
 |  |
 | ------- |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anayush87/DSA/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/anayush87/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
