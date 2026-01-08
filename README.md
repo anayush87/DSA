@@ -126,6 +126,7 @@ This repository contains solutions to various LeetCode problems organized by top
 | [0584-find-customer-referee](https://github.com/anayush87/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/anayush87/DSA/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/anayush87/DSA/tree/master/1148-article-views-i) |
+| [1164-product-price-at-a-given-date](https://github.com/anayush87/DSA/tree/master/1164-product-price-at-a-given-date) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/anayush87/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anayush87/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/anayush87/DSA/tree/master/1683-invalid-tweets) |
