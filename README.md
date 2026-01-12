@@ -30,6 +30,7 @@ This repository contains solutions to various LeetCode problems organized by top
 | [0174-dungeon-game](https://github.com/anayush87/DSA/tree/master/0174-dungeon-game) |
 | [0509-fibonacci-number](https://github.com/anayush87/DSA/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/anayush87/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anayush87/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1025-divisor-game](https://github.com/anayush87/DSA/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/anayush87/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
@@ -55,6 +56,7 @@ This repository contains solutions to various LeetCode problems organized by top
 | [0079-word-search](https://github.com/anayush87/DSA/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anayush87/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/anayush87/DSA/tree/master/0174-dungeon-game) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anayush87/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anayush87/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anayush87/DSA/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## String
@@ -132,4 +134,12 @@ This repository contains solutions to various LeetCode problems organized by top
 | [1683-invalid-tweets](https://github.com/anayush87/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anayush87/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anayush87/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anayush87/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anayush87/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
