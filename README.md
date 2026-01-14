@@ -57,6 +57,7 @@ This repository contains solutions to various LeetCode problems organized by top
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anayush87/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/anayush87/DSA/tree/master/0174-dungeon-game) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anayush87/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/anayush87/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anayush87/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anayush87/DSA/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## String
@@ -115,6 +116,7 @@ This repository contains solutions to various LeetCode problems organized by top
 ## Hash Table
 |  |
 | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/anayush87/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anayush87/DSA/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Prefix Sum
 |  |
